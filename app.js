@@ -1,4 +1,7 @@
-console.log ("hola mundo");
+function hola (camada){
+    console.log(hola + camada);
+}
+
 
 
 
